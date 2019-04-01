@@ -2,7 +2,6 @@
   "name": "react-movie-data",
   "version": "0.1.0",
   "private": true,
-  “homepage”: “https://whitingjl22.github.io/react-movie-data",
   "dependencies": {
     "axios": "^0.18.0",
     "react": "^16.8.4",
